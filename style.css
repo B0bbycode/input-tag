@@ -15,7 +15,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: royalblue;
+    background: #face8d;
     padding: 0 16px;
 }
 
@@ -95,8 +95,8 @@ h3 {
 
 .bottom .remove-all {
     padding: 10px 26px;
-    border: 1px solid royalblue;
-    color: royalblue;
+    border: 1px solid #face8d;
+    color: #face8d;
     font-weight: 500;
     background: transparent;
     border-radius: 4px;
@@ -105,7 +105,7 @@ h3 {
 }
 
 .bottom .remove-all:hover {
-    background: royalblue;
+    background: #face8d;
     color: #f9f9f9;
 }
 
